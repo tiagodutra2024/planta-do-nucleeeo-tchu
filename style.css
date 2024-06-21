@@ -3,6 +3,11 @@
     color: rgba(99, 215, 184, 0.732);
 }
 
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+}
+
 .conteudo-principal {
     display: flex;
     flex-direction: column;
